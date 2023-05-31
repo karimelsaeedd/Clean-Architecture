@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QkJsMRFKm2IvHBnRx38fl4kZDucyQjuhNTXKEcVAzWI=",
+  "Source": "PostLand.Api",
+  "BasePath": "_content/PostLand.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

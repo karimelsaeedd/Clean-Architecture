@@ -1,0 +1,15 @@
+E:\Task\PostLand\PostLand\PostLand.Application\bin\Debug\net6.0\PostLand.Application.deps.json
+E:\Task\PostLand\PostLand\PostLand.Application\bin\Debug\net6.0\PostLand.Application.dll
+E:\Task\PostLand\PostLand\PostLand.Application\bin\Debug\net6.0\PostLand.Application.pdb
+E:\Task\PostLand\PostLand\PostLand.Application\bin\Debug\net6.0\PostLand.domain.dll
+E:\Task\PostLand\PostLand\PostLand.Application\bin\Debug\net6.0\PostLand.domain.pdb
+E:\Task\PostLand\PostLand\PostLand.Application\obj\Debug\net6.0\PostLand.Application.csproj.AssemblyReference.cache
+E:\Task\PostLand\PostLand\PostLand.Application\obj\Debug\net6.0\PostLand.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task\PostLand\PostLand\PostLand.Application\obj\Debug\net6.0\PostLand.Application.AssemblyInfoInputs.cache
+E:\Task\PostLand\PostLand\PostLand.Application\obj\Debug\net6.0\PostLand.Application.AssemblyInfo.cs
+E:\Task\PostLand\PostLand\PostLand.Application\obj\Debug\net6.0\PostLand.Application.csproj.CoreCompileInputs.cache
+E:\Task\PostLand\PostLand\PostLand.Application\obj\Debug\net6.0\PostLand.Application.csproj.CopyComplete
+E:\Task\PostLand\PostLand\PostLand.Application\obj\Debug\net6.0\PostLand.Application.dll
+E:\Task\PostLand\PostLand\PostLand.Application\obj\Debug\net6.0\refint\PostLand.Application.dll
+E:\Task\PostLand\PostLand\PostLand.Application\obj\Debug\net6.0\PostLand.Application.pdb
+E:\Task\PostLand\PostLand\PostLand.Application\obj\Debug\net6.0\ref\PostLand.Application.dll

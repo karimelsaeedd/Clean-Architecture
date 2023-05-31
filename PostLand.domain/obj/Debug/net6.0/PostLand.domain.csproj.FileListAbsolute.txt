@@ -1,0 +1,12 @@
+E:\Task\PostLand\PostLand\PostLand.domain\bin\Debug\net6.0\PostLand.domain.deps.json
+E:\Task\PostLand\PostLand\PostLand.domain\bin\Debug\net6.0\PostLand.domain.dll
+E:\Task\PostLand\PostLand\PostLand.domain\bin\Debug\net6.0\PostLand.domain.pdb
+E:\Task\PostLand\PostLand\PostLand.domain\obj\Debug\net6.0\PostLand.domain.csproj.AssemblyReference.cache
+E:\Task\PostLand\PostLand\PostLand.domain\obj\Debug\net6.0\PostLand.domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task\PostLand\PostLand\PostLand.domain\obj\Debug\net6.0\PostLand.domain.AssemblyInfoInputs.cache
+E:\Task\PostLand\PostLand\PostLand.domain\obj\Debug\net6.0\PostLand.domain.AssemblyInfo.cs
+E:\Task\PostLand\PostLand\PostLand.domain\obj\Debug\net6.0\PostLand.domain.csproj.CoreCompileInputs.cache
+E:\Task\PostLand\PostLand\PostLand.domain\obj\Debug\net6.0\PostLand.domain.dll
+E:\Task\PostLand\PostLand\PostLand.domain\obj\Debug\net6.0\refint\PostLand.domain.dll
+E:\Task\PostLand\PostLand\PostLand.domain\obj\Debug\net6.0\PostLand.domain.pdb
+E:\Task\PostLand\PostLand\PostLand.domain\obj\Debug\net6.0\ref\PostLand.domain.dll

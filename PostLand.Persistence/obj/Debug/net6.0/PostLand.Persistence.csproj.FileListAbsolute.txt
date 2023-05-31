@@ -1,0 +1,17 @@
+E:\Task\PostLand\PostLand\PostLand.Persistence\bin\Debug\net6.0\PostLand.Persistence.deps.json
+E:\Task\PostLand\PostLand\PostLand.Persistence\bin\Debug\net6.0\PostLand.Persistence.dll
+E:\Task\PostLand\PostLand\PostLand.Persistence\bin\Debug\net6.0\PostLand.Persistence.pdb
+E:\Task\PostLand\PostLand\PostLand.Persistence\bin\Debug\net6.0\PostLand.Application.dll
+E:\Task\PostLand\PostLand\PostLand.Persistence\bin\Debug\net6.0\PostLand.domain.dll
+E:\Task\PostLand\PostLand\PostLand.Persistence\bin\Debug\net6.0\PostLand.Application.pdb
+E:\Task\PostLand\PostLand\PostLand.Persistence\bin\Debug\net6.0\PostLand.domain.pdb
+E:\Task\PostLand\PostLand\PostLand.Persistence\obj\Debug\net6.0\PostLand.Persistence.csproj.AssemblyReference.cache
+E:\Task\PostLand\PostLand\PostLand.Persistence\obj\Debug\net6.0\PostLand.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Task\PostLand\PostLand\PostLand.Persistence\obj\Debug\net6.0\PostLand.Persistence.AssemblyInfoInputs.cache
+E:\Task\PostLand\PostLand\PostLand.Persistence\obj\Debug\net6.0\PostLand.Persistence.AssemblyInfo.cs
+E:\Task\PostLand\PostLand\PostLand.Persistence\obj\Debug\net6.0\PostLand.Persistence.csproj.CoreCompileInputs.cache
+E:\Task\PostLand\PostLand\PostLand.Persistence\obj\Debug\net6.0\PostLand.Persistence.csproj.CopyComplete
+E:\Task\PostLand\PostLand\PostLand.Persistence\obj\Debug\net6.0\PostLand.Persistence.dll
+E:\Task\PostLand\PostLand\PostLand.Persistence\obj\Debug\net6.0\refint\PostLand.Persistence.dll
+E:\Task\PostLand\PostLand\PostLand.Persistence\obj\Debug\net6.0\PostLand.Persistence.pdb
+E:\Task\PostLand\PostLand\PostLand.Persistence\obj\Debug\net6.0\ref\PostLand.Persistence.dll
